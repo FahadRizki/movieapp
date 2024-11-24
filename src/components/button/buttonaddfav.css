@@ -1,0 +1,9 @@
+.add-fav {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.add-fav box-icon {
+    transition: color 0.3s ease;
+}
